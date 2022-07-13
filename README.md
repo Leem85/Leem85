@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SahLeem</h1>
-<h3 align="center">My work centers around creative technology and digital accessibility for marginalized communities.</h3>
+<h3 align="center">My work centers around creative technology and digital accessibility.</h3>
 
 - 📫 How to reach me **sahleembutler@pursuit.org**
 
